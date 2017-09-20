@@ -1,5 +1,5 @@
 port: 8080
 zone: ZGD3P4L02ZDJ3
 dns: 'natefonseka.tech'
-ip: '127.0.0.1'
-recordType: 'A'
+ip: 'ad027cac69a3a11e7ac460e35c9dd52d-1204407858.us-east-1.elb.amazonaws.com'
+recordType: 'CNAME'
